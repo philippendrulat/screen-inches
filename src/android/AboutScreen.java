@@ -1,4 +1,4 @@
-package com.vlara.aboutscreen;
+package com.efl.aboutscreen;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
